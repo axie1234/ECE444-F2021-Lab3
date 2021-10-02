@@ -6,7 +6,7 @@ Activity 1 Screenshot of Docker installation and version check.
 ![Activity 1](/screenshots/activity_1_docker_install.png)
 
 Activity 2 Screenshot of the cloned Educational Pathways repo.
-![Activity 2](/screenshots/activity_1_screenshot.png)
+![Activity 2](/screenshots/activity_2_screenshot.png)
 
 Activity 3 Screenshot of the docker build.
 ![Activity 3](/screenshots/activity_3_docker_build.png)
