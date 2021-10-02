@@ -15,6 +15,10 @@ Activity 4 Screenshot of Educational Pathways running on localhost:5000 and the 
 ![Activity 4](/screenshots/activity_4_localhost.png)
 ![Activity 4](/screenshots/activity_4_running.png)
 
+### Functional and Non-functional Requirements:
+
+A functional requirement would be that the application should have a keyword search to filter for courses based on their tags, and it should have a dropdown menu to filter courses based on department. A non-functional requirement would be that the links to the courses suggested should always work. This is an improvement I would make since most of the course links don't work. Another improvement I would make would be to have a dropdown menu with less confusing categories, unlike the department which the student is in when most aren't even sure.
+
 # CARTE Education Pathways
 
 ## Description
