@@ -2,6 +2,9 @@ Andy Xie
 
 This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
+Activity 1 Screenshot of Docker installation and version check.
+![Activity 1](/screenshots/activity_1_docker_install.png)
+
 # CARTE Education Pathways
 
 ## Description
