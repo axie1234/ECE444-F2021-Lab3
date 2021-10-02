@@ -5,6 +5,16 @@ This repo is a clone of https://github.com/nelaturuk/education_pathways.
 Activity 1 Screenshot of Docker installation and version check.
 ![Activity 1](/screenshots/activity_1_docker_install.png)
 
+Activity 2 Screenshot of the cloned Educational Pathways repo.
+![Activity 2](/screenshots/activity_1_screenshot.png)
+
+Activity 3 Screenshot of the docker build.
+![Activity 3](/screenshots/activity_3_docker_build.png)
+
+Activity 4 Screenshot of Educational Pathways running on localhost:5000 and the docker image for it.
+![Activity 4](/screenshots/activity_4_localhost.png)
+![Activity 4](/screenshots/activity_4_running.png)
+
 # CARTE Education Pathways
 
 ## Description
