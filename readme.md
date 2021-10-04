@@ -5,8 +5,9 @@ This repo is a clone of https://github.com/nelaturuk/education_pathways.
 Activity 1 Screenshot of Docker installation and version check.
 ![Activity 1](/screenshots/activity_1_docker_install.png)
 
-Activity 2 Screenshot of the cloned Educational Pathways repo.
+Activity 2 Screenshot of the cloned Educational Pathways repo and original repo (instructions in lab are unclear on which repo to screenshot).
 ![Activity 2](/screenshots/activity_2_screenshot.png)
+![Activity 2](/screenshots/activity_2_org_repo.png)
 
 Activity 3 Screenshot of the docker build.
 ![Activity 3](/screenshots/activity_3_docker_build.png)
@@ -15,7 +16,7 @@ Activity 4 Screenshot of Educational Pathways running on localhost:5000 and the 
 ![Activity 4](/screenshots/activity_4_localhost.png)
 ![Activity 4](/screenshots/activity_4_running.png)
 
-### Functional and Non-functional Requirements:
+### Activity 5: Functional and Non-functional Requirements:
 
 A functional requirement would be that the application should have a keyword search to filter for courses based on their tags, and it should have a dropdown menu to filter courses based on department. A non-functional requirement would be that the links to the courses suggested should always work. This is an improvement I would make since most of the course links don't work. Another improvement I would make would be to have a dropdown menu with less confusing categories, unlike the department which the student is in when most aren't even sure.
 
